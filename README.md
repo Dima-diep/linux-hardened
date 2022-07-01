@@ -6,6 +6,7 @@ Get files by link: https://dima-diep.github.io/linux-hardened/...
 `/soft` - Soft
 `/soft/android` - Soft for Android
 `/soft/android/magisk` - Magisk modules
+`/soft/android/sources` - some sources
 
 ## Magisk modules:
 - android-ntfs
